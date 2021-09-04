@@ -1,0 +1,15 @@
+C:\Users\yaniv\source\repos\DeletionExample\DeletionExample\bin\Debug\net6.0\DeletionExample.exe
+C:\Users\yaniv\source\repos\DeletionExample\DeletionExample\bin\Debug\net6.0\DeletionExample.deps.json
+C:\Users\yaniv\source\repos\DeletionExample\DeletionExample\bin\Debug\net6.0\DeletionExample.runtimeconfig.json
+C:\Users\yaniv\source\repos\DeletionExample\DeletionExample\bin\Debug\net6.0\DeletionExample.dll
+C:\Users\yaniv\source\repos\DeletionExample\DeletionExample\bin\Debug\net6.0\ref\DeletionExample.dll
+C:\Users\yaniv\source\repos\DeletionExample\DeletionExample\bin\Debug\net6.0\DeletionExample.pdb
+C:\Users\yaniv\source\repos\DeletionExample\DeletionExample\obj\Debug\net6.0\DeletionExample.csproj.AssemblyReference.cache
+C:\Users\yaniv\source\repos\DeletionExample\DeletionExample\obj\Debug\net6.0\DeletionExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaniv\source\repos\DeletionExample\DeletionExample\obj\Debug\net6.0\DeletionExample.AssemblyInfoInputs.cache
+C:\Users\yaniv\source\repos\DeletionExample\DeletionExample\obj\Debug\net6.0\DeletionExample.AssemblyInfo.cs
+C:\Users\yaniv\source\repos\DeletionExample\DeletionExample\obj\Debug\net6.0\DeletionExample.csproj.CoreCompileInputs.cache
+C:\Users\yaniv\source\repos\DeletionExample\DeletionExample\obj\Debug\net6.0\DeletionExample.dll
+C:\Users\yaniv\source\repos\DeletionExample\DeletionExample\obj\Debug\net6.0\ref\DeletionExample.dll
+C:\Users\yaniv\source\repos\DeletionExample\DeletionExample\obj\Debug\net6.0\DeletionExample.pdb
+C:\Users\yaniv\source\repos\DeletionExample\DeletionExample\obj\Debug\net6.0\DeletionExample.genruntimeconfig.cache
