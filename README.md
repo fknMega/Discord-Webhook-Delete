@@ -1,5 +1,5 @@
 ### Discord-Webhook-Delete
-**A simple example on how to delete an discord webhook using c#**
+**A simple example of how to delete an discord webhook using c#**
 
 The Project I created is using .NET 6.0.0, so if you want to run my own project I created you will have to install .NET 6.0.0
 but if you just want to use this ↓ code you won't have too.
