@@ -1,6 +1,7 @@
 ### Discord-Webhook-Delete
 **A simple example of how to delete an discord webhook using c#**
 ### [you can download the latest EXE file here](https://github.com/fknMega/Discord-Webhook-Delete/releases/tag/Latest)
+[![Github All Releases](https://img.shields.io/github/downloads/fknMega/Discord-Webhook-Delete/total.svg)]()
 
 The Project I created is using .NET 6.0.0, so if you want to run my own project I created you will have to install .NET 6.0.0
 but if you just want to use this ↓ code you won't have too.
